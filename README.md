@@ -17,3 +17,8 @@ Feel free to explore my GitHub repositories to see some of the coding projects a
 In the symphony of coding, life, and love, I'm dancing to the rhythm of creativity with my incredible boyfriend Edwin. Together, we're crafting our own unique melodies and exploring the infinite possibilities of both code and the heart.
 
 May your coding endeavors be filled with the same magic and harmony. Here's to a future of endless inspiration and innovation!
+
+<!---
+About-what-i-do/readme.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
